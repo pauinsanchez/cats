@@ -12,6 +12,6 @@ cat_function <- function(love=TRUE){
     print("You are a cool person :-)")
   }
   else {
-    print("You are not a cool person :-(")
+    print("You are not a cool person :-( How can you NOT love cats?")
   }
 }
