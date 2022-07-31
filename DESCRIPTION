@@ -1,0 +1,11 @@
+Package: cats
+Title: Do I love cats? package
+Version: 0.0.1
+Authors@R: 
+    person("Pau", "Insa-Sanchez", , "pau.insa@uv.es", role = c("aut", "cre"))
+Description: This package allows you to know whether you truly love cats or not.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
